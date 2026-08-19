@@ -8,7 +8,7 @@ The objective is to help management understand sales performance, profitability,
 - Sample Superstore Dataset  
 - GitHub
 - 
-  Business Questions Answered:
+Business Questions Answered:
 - Which category contributes the least revenue?  
 - Which region is the most profitable?  
 - Which shipping method contributes the most sales?  
