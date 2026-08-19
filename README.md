@@ -7,7 +7,6 @@ The objective is to help management understand sales performance, profitability,
 - Microsoft Excel  
 - Sample Superstore Dataset  
 - GitHub
-- 
 Business Questions Answered:
 - Which category contributes the least revenue?  
 - Which region is the most profitable?  
